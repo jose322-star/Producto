@@ -1,0 +1,21 @@
+package ferreteriavecino;
+
+public class Producto {
+
+    public static void main(String[] args) {
+        System.out.println("Ingrese el Producto");
+
+String producto = "Martillo";
+int cantidad = 12;
+int precio = 414;
+String stock = "Si";
+
+System.out.println("Producto: " + producto);
+System.out.println("Cantidad: " + cantidad);
+System.out.println("Precio: " + precio);
+System.out.println("Stock: " + stock);
+
+
+    }
+    
+}
